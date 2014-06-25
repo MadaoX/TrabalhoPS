@@ -8,6 +8,15 @@ struct dados{
   char dif;
   char dic1[10], dic2[10], dic3[10]
 }
+
+
+
+
+
+
+
+
+
 typedef dados* Dados; 
 
 // 15 palavras - facil
